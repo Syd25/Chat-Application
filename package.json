@@ -1,0 +1,22 @@
+{
+  "name": "videochatapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/netlify-lambda serve src",
+    "build": "./node_modules/.bin/netlify-lambda build src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "heroku": "^7.42.5",
+    "netlify-lambda": "^2.0.1",
+    "serverless-http": "^2.5.0",
+    "simple-peer": "^9.7.2",
+    "socket.io": "^2.3.0",
+    "watchify": "^3.11.1"
+  }
+}
