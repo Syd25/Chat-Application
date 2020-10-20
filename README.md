@@ -7,4 +7,12 @@ npm install
 node server.js
 
 
+![image](https://user-images.githubusercontent.com/63421456/96653500-d6fdbb00-1356-11eb-8dc6-26ff4aef03f1.png)
+
+![image](https://user-images.githubusercontent.com/63421456/96653526-e8df5e00-1356-11eb-9484-64843c732d69.png)
+
+![image](https://user-images.githubusercontent.com/63421456/96653547-f694e380-1356-11eb-864f-485e37b59997.png)
+
+
+![image](https://user-images.githubusercontent.com/63421456/96653595-11675800-1357-11eb-9c6b-a44d4c254601.png)
 
